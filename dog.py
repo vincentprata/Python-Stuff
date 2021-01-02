@@ -1,9 +1,14 @@
+# Created by Vincente Prata
+"""
+This program represents a user defined class. The init method for the class Dog
+is designed to give each dog its own name and breed. The method "teach" adds a passed
+string parameter to tricks (a list) and prints a message that the dog knows the trick.
+Finally, the method "knows" checks whether a passed string parameter is in the dog's list of tricks
+and prints an appropriate message and returns True or False.
 """
 
-Vincente Prata
-CS 100 2020F Section 019
-HW 11, November 18, 2020
-"""
+
+
 
 
 class Dog:
