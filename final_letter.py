@@ -5,7 +5,7 @@ The function "hasFinalLetter" takes two parameters: strList (a list of non-empty
 and letters (a string of upper and/or lower case letters). This function creates and returns
 a list of all the strings in strList that end with a letter in letters. Three test cases were
 created, each consisting of a list of non-empty strings and a string of upper and/or lower
-case letters. The first test case returns the empty list because it none of the strings in strList
+case letters. The first test case returns the empty list because none of the strings in strList
 end with a letter in letters.
 """
 
